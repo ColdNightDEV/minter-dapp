@@ -159,7 +159,7 @@ header .container {
 /* COUNTDOWN SECTION */
 
 section {
-  flex: 1 1 auto;
+  flex: 1 auto;
 }
 
 #countdown {
