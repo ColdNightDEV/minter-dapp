@@ -52,7 +52,6 @@ header {
 header .container {
   flex-direction: row;
   display: flex;
-  flex: 1;
   justify-content: space-between;
   align-items: center;
 }
@@ -68,9 +67,7 @@ header .container {
   align-items: center;
   height: 100%;
   text-align: center;
-  margin: 0 auto;
-  display: flex;
-  flex: 1;
+  margin: 0 auto 0 35vw;
   opacity: 0;
   transform: translateY(10vh);
   transition: all 0.5s ease-in-out;
